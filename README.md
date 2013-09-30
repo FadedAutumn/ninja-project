@@ -1,0 +1,4 @@
+ninja-project
+=============
+
+ninja-project
